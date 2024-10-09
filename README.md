@@ -12,3 +12,4 @@ Se le recibira en una pagina de inicio en la cual se listan todos los productos 
 algun producto en especifico si agrega algun nombre de producto.
 
 
+Nota: Pensé en desarrollar una vista detallada del producto, sin embargo dada la escala del proyecto y el hecho de que el filtro de busqueda por nombre ya permite ver uno por separado haría el desarrollo de esta funcionalidad redundante, lo cual rompería con los principios KISS y DRY.
