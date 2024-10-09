@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "Camiseta de Algodón",
+        "description": "Camiseta de algodón 100% para uso diario",
+        "price": 25,
+        "stock": 120,
+        "category": "Ropa",
+        "serial": "TSH-001",
+        "brand": "ModaComfy",
+        "discount": 10,
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "title": "Zapatillas Deportivas",
+        "description": "Zapatillas deportivas para running y entrenamiento",
+        "price": 75,
+        "stock": 80,
+        "category": "Calzado",
+        "serial": "SNP-202",
+        "brand": "RunnerX",
+        "discount": 15,
+        "rating": 4.8
+    },
+    {
+        "id": 3,
+        "title": "Mochila Impermeable",
+        "description": "Mochila resistente al agua con múltiples compartimentos",
+        "price": 45,
+        "stock": 60,
+        "category": "Accesorios",
+        "serial": "BKP-015",
+        "brand": "TravelGear",
+        "discount": 5,
+        "rating": 4.3
+    },
+    {
+        "id": 4,
+        "title": "Audífonos Bluetooth",
+        "description": "Audífonos inalámbricos con cancelación de ruido",
+        "price": 120,
+        "stock": 35,
+        "category": "Electrónica",
+        "serial": "BTH-303",
+        "brand": "SoundWave",
+        "discount": 20,
+        "rating": 4.7
+    },
+    {
+        "id": 5,
+        "title": "Smartwatch Deportivo",
+        "description": "Reloj inteligente con monitoreo de actividad física y GPS",
+        "price": 150,
+        "stock": 50,
+        "category": "Electrónica",
+        "serial": "SWT-502",
+        "brand": "TechPulse",
+        "discount": 10,
+        "rating": 4.6
+    },
+    {
+        "id": 6,
+        "title": "Silla Ergonomica de Oficina",
+        "description": "Silla con soporte lumbar ajustable y material transpirable",
+        "price": 200,
+        "stock": 25,
+        "category": "Muebles",
+        "serial": "CHR-101",
+        "brand": "ErgoChair",
+        "discount": 25,
+        "rating": 4.9
+    },
+    {
+        "id": 7,
+        "title": "Cafetera Automática",
+        "description": "Cafetera con molinillo integrado y programas automáticos",
+        "price": 300,
+        "stock": 10,
+        "category": "Hogar",
+        "serial": "CFE-708",
+        "brand": "BrewMaster",
+        "discount": 15,
+        "rating": 4.8
+    },
+    {
+        "id": 8,
+        "title": "Lámpara de Escritorio LED",
+        "description": "Lámpara con luz regulable y función de carga inalámbrica",
+        "price": 35,
+        "stock": 100,
+        "category": "Iluminación",
+        "serial": "LED-202",
+        "brand": "BrightLite",
+        "discount": 5,
+        "rating": 4.4
+    },
+    {
+        "id": 9,
+        "title": "Set de Cuchillos de Cocina",
+        "description": "Juego de cuchillos de acero inoxidable de alta calidad",
+        "price": 80,
+        "stock": 40,
+        "category": "Cocina",
+        "serial": "KNF-510",
+        "brand": "ChefPro",
+        "discount": 20,
+        "rating": 4.7
+    },
+    {
+        "id": 10,
+        "title": "Bicicleta de Montaña",
+        "description": "Bicicleta con cuadro de aluminio y suspensión delantera",
+        "price": 500,
+        "stock": 15,
+        "category": "Deportes",
+        "serial": "MTB-750",
+        "brand": "TrailRider",
+        "discount": 10,
+        "rating": 4.9
+    }
+]
